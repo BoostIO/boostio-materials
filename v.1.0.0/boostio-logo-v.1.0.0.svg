@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="240px" height="240px" viewBox="0 0 240 240" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <g id="boostio-logo-v.1.0.0" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Logo">
+            <rect id="Box" x="0" y="0" width="240" height="240"></rect>
+            <g id="BoostIO" transform="translate(12.000000, 30.000000)" fill="#1EC38B">
+                <circle id="Oval" cx="81" cy="90" r="81"></circle>
+                <circle id="Oval" fill-opacity="0.400000006" cx="108.755245" cy="90" r="81"></circle>
+                <circle id="Oval" fill-opacity="0.200000018" cx="130.27972" cy="90" r="81"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
