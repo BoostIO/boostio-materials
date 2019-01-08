@@ -5,7 +5,7 @@
 Feel free to use images on your Readme and blog :D
 
 ## 1. Logo
-![BoostIO-image-v1](./v1/boostIO-logo-v1.svg)
+![BoostIO-image-v1](./v1/boostio-logo-v1.svg)
 
 ## 2. Shield
-![BoostIO-shield-v1](./v1/boostIO-shield-v1.svg)
+![BoostIO-shield-v1](./v1/boostio-shield-v1.svg)
